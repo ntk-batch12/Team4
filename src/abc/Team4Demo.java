@@ -12,4 +12,10 @@ public class Team4Demo {
 	public static void addMethod() {
 		System.out.println("team 4 test mustafa");
 	}
+	
+	public static void display() {
+		System.out.println("Team4");
+		
+	}
+	
 }
