@@ -3,6 +3,7 @@ package abc;
 public class Team4Demo {
 	public static void main(String[] args) {
 		System.out.println("Team 4...");
+		testDevBranch();
 	}
 	public static void team4() {
 		System.out.println("The team FOURRRRRRR is very good");
@@ -21,6 +22,10 @@ public class Team4Demo {
 	public static void testMethod() {
 		System.out.println("TEST");
 	} 
+	
+	public static void testDevBranch() {
+		System.out.println("Test successfull");
+	}
 
 	
 }
