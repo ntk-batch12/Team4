@@ -5,7 +5,7 @@ public class Team4Demo {
 		System.out.println("Team 4...");
 	}
 	public static void team4() {
-		System.out.println("The team ONEEEEEEEEEEEEEEEEE is very good");
+		System.out.println("The team FOURRRRRRR is very good");
 		System.out.println("We will work in importants companies");
 }
 	
