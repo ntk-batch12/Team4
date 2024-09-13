@@ -17,6 +17,9 @@ public class Team4Demo {
 		System.out.println("Team4");
 		
 	}
-
 	
+	public static void bestTeam() {
+		System.out.println("best team");
+
+	}
 }
