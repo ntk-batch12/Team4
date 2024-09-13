@@ -18,13 +18,9 @@ public class Team4Demo {
 		
 	}
 	
-	public static void bestTeam() {
-		System.out.println("best team");
+	public static void testMethod() {
+		System.out.println("TEST");
+	} 
 
-	}
 	
-	public static void show() {
-		System.out.println("The team 4 is very good");
-		System.out.println("We will work in importants companies");
-	}
 }
