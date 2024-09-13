@@ -17,11 +17,6 @@ public class Team4Demo {
 		System.out.println("Team4");
 		
 	}
-	/**
 
-		****Team 2*****
-
-
-	*/
 	
 }
